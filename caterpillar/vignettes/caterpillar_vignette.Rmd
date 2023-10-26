@@ -36,3 +36,5 @@ You can use **development_time** to find the average number of days between inst
 ```{r}
 development_time(caterpillar_survival$hatch_date, caterpillar_survival$instar2, caterpillar_survival$instar3)
 ```
+
+Have fun!
